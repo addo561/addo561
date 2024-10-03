@@ -1,4 +1,3 @@
-![MasterHead](https://www.meritas.in/wp-content/uploads/2022/04/AI-ML-sevices.png)
 <h1 align='center'>👋 Hi! I’m Larry</h1>
 <h3 align="center">An aspiring AI and Machine Learning engineer</h3>
 <img align='right' alt='Coding' width='400' src='https://as2.ftcdn.net/v2/jpg/05/68/98/15/1000_F_568981524_2irG4VUSs06xbahAihTpkuSfxKkw8FqX.jpg'>
