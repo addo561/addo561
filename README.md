@@ -1,6 +1,6 @@
 <h1 align='center'>👋 Hi! I’m Larry</h1>
 <h3 align="center">An aspiring AI and Machine Learning engineer</h3>
-<img align='right' alt='Coding' width='400' src='https://as2.ftcdn.net/v2/jpg/05/68/98/15/1000_F_568981524_2irG4VUSs06xbahAihTpkuSfxKkw8FqX.jpg'>
+<img align='right' alt='Coding' width='400' src='https://www.meritas.in/wp-content/uploads/2022/04/AI-ML-sevices.png'>
 
 I’ve been learning and exploring the world of machine learning and deep learning, driven by a passion to understand how intelligent systems work. I believe in the transformative power of data and algorithms to solve real-world problems, and I’m committed to advancing my skills in this field.
 
