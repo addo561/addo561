@@ -1,22 +1,24 @@
 <h1 align='center'>👋 Hi! I’m Larry</h1>
-<h3 align="center">An aspiring AI and Machine Learning engineer</h3>
+<h3 align="center">An aspiring Data Science and AI Engineer</h3>
 <img align='right' alt='Coding' width='400' src='https://www.meritas.in/wp-content/uploads/2022/04/AI-ML-sevices.png'>
 
-I’ve been learning and exploring the world of machine learning and deep learning, driven by a passion to understand how intelligent systems work. I believe in the transformative power of data and algorithms to solve real-world problems, and I’m committed to advancing my skills in this field.
+I’ve been learning and exploring the world of data science, artificial intelligence, and machine learning, driven by a passion to understand how intelligent systems work. I believe in the transformative power of data and algorithms to solve real-world problems, and I’m committed to advancing my skills in these fields.
 
 ### 🔍 Current Focus:
-- **Machine Learning & Deep Learning**: Learning the fundamentals of supervised, unsupervised learning, and neural networks, with a focus on algorithms like decision trees, support vector machines, and deep learning architectures.
+- **Artificial Intelligence & Machine Learning**: Learning the fundamentals of supervised, unsupervised learning, and neural networks, with a focus on algorithms like decision trees, support vector machines, and deep learning architectures.  
+- **Data Science & Analysis**: Exploring datasets to perform cleaning, visualization, feature engineering, and exploratory data analysis (EDA) to uncover actionable insights.  
 - **LeetCode & Problem-Solving**: Enhancing my data structures and algorithms skills through consistent problem-solving on LeetCode.
 
 ### 🛠️ Skills I’m Learning:
-- **Programming**: Python
-- **Libraries/Frameworks**: NumPy, Pandas, Scikit-learn, TensorFlow
-- **Concepts**: Linear regression, classification, clustering, deep learning, backpropagation, optimization techniques
+- **Programming**: Python  
+- **Libraries/Frameworks**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow  
+- **Concepts**: Linear regression, classification, clustering, deep learning, EDA, feature engineering, optimization techniques, and natural language processing (NLP)  
 
 ### 🌱 Goals:
-- Build projects integrating AI/ML models in innovative ways.
-- Contribute to open-source AI projects and collaborate with other learners.
-- Continuously solve data structure and algorithm challenges to improve problem-solving skills.
+- Build innovative projects integrating AI/ML models with data-driven insights.  
+- Tackle end-to-end data science projects, from data acquisition to deployment.  
+- Contribute to open-source AI and data science projects and collaborate with the community.  
+- Continuously solve data structure and algorithm challenges to improve problem-solving skills.  
 
 <p align="left"> <a href="https://twitter.com/korlai_21" target="blank"><img src="https://img.shields.io/twitter/follow/korlai_21?logo=twitter&style=for-the-badge" alt="korlai_21" /></a> </p>
 
@@ -51,3 +53,4 @@ I’ve been learning and exploring the world of machine learning and deep learni
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=addo561&show_icons=true&locale=en" alt="addo561" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=addo561&" alt="addo561" /></p>
+
