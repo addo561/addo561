@@ -1,30 +1,36 @@
 <h1 align='center'>👋 Hi! I’m Larry</h1>
-<h3 align="center">An Aspiring Data Science and AI Engineer</h3>
-<img align='right' alt='Coding' width='400' src='https://media.licdn.com/dms/image/D4D12AQGU_-XHFuojKA/article-cover_image-shrink_720_1280/0/1686717091309?e=2147483647&v=beta&t=g851j23--0Js309QYECDBWcxDB1gVRQl6HXaHQF9bGI'>
+<h3 align="center">Aspiring AI Researcher and Engineer</h3>
+<img align='right' alt='Coding' width='400' src='https://res.cloudinary.com/lwgatsby/f_auto/www/uploads/2020/04/1200px-What-is-artificial-intelligence-_What_is_artificial_intelligence.jpg'>
 
-I’ve been learning and exploring the world of data science, artificial intelligence, and machine learning, driven by a passion to understand how intelligent systems work. I believe in the transformative power of data and algorithms to solve real-world problems, and I’m committed to advancing my skills in these fields.
+I am passionate about exploring and advancing the field of artificial intelligence and machine learning. I focus on building algorithms from scratch, solving real-world problems, and leveraging data-driven insights to design intelligent systems. My journey as an AI researcher/engineer combines theoretical exploration with practical implementation to create impactful solutions.
 
 ### 🔍 Current Focus:
-- **Artificial Intelligence & Machine Learning**: Learning the fundamentals of supervised, unsupervised learning, and neural networks, with a focus on algorithms like decision trees, support vector machines, and deep learning architectures.  
-- **Data Science & Analysis**: Exploring datasets to perform cleaning, visualization, feature engineering, and exploratory data analysis (EDA) to uncover actionable insights.  
-- **LeetCode & Problem-Solving**: Enhancing my data structures and algorithms skills through consistent problem-solving on LeetCode.
+- **AI Algorithms & Foundations**: Implementing algorithms like neural networks, decision trees, Naive Bayes, and support vector machines from scratch.  
+- **Deep Learning**: Experimenting with architectures such as CNNs, RNNs, and Transformers for tasks in computer vision and natural language processing.  
+- **AI-Driven Problem Solving**: Using machine learning to tackle real-world challenges, from data preprocessing to model deployment.  
+- **Research Exploration**: Reading papers and learning state-of-the-art techniques like attention mechanisms and reinforcement learning.
 
 ### 🛠️ Skills I’m Learning:
-- **Programming**: Python  
-- **Libraries/Frameworks**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow  
-- **Concepts**: Linear regression, classification, clustering, deep learning, EDA, feature engineering, optimization techniques, and natural language processing (NLP)  
+- **Programming**: Python (Intermediate)  
+- **Libraries/Frameworks**: NumPy, Pandas, Matplotlib, TensorFlow, PyTorch, Scikit-learn  
+- **Concepts**: Supervised/unsupervised learning, optimization techniques, neural networks, natural language processing (NLP), reinforcement learning  
 
 ### 🌱 Goals:
-- Build innovative projects integrating AI/ML models with data-driven insights.  
-- Tackle end-to-end data science projects, from data acquisition to deployment.  
-- Contribute to open-source AI and data science projects and collaborate with the community.  
-- Continuously solve data structure and algorithm challenges to improve problem-solving skills.  
+- Build innovative AI models and deploy them to solve practical problems.  
+- Research state-of-the-art advancements in AI and publish my findings.  
+- Strengthen my understanding of AI mathematics (linear algebra, calculus, probability).  
+- Create projects showcasing expertise in AI and deep learning applications.  
+
+### 👨‍💻 Current Projects:
+1. **Neural Network from Scratch**: Building a fully connected feedforward neural network with Python.  
+2. **AI for Image Classification**: Using CNNs to classify datasets such as MNIST and CIFAR-10.  
+3. **Natural Language Processing**: Sentiment analysis and text generation using Transformer models.
 
 <p align="left"> <a href="https://twitter.com/korlai_21" target="blank"><img src="https://img.shields.io/twitter/follow/korlai_21?logo=twitter&style=for-the-badge" alt="korlai_21" /></a> </p>
 
-- 📫 How to reach me **korlilarryaddo43@gmail.com**
+- 📫 How to reach me: **korlilarryaddo43@gmail.com**  
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact: **I enjoy exploring the intersection of AI and creativity!**
 
 ### Connect with me:
 <p align="left">
@@ -53,4 +59,3 @@ I’ve been learning and exploring the world of data science, artificial intelli
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=addo561&show_icons=true&locale=en" alt="addo561" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=addo561&" alt="addo561" /></p>
-
