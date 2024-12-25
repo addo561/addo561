@@ -12,7 +12,7 @@ I am passionate about exploring and advancing the field of artificial intelligen
 
 ### 🛠️ Skills I’m Learning:
 - **Programming**: Python (Intermediate)  
-- **Libraries/Frameworks**: NumPy, Pandas, Matplotlib, TensorFlow, PyTorch, Scikit-learn  
+- **Libraries/Frameworks**: NumPy, Pandas, Matplotlib, TensorFlow, PyTorch, Scikit-learn ,Fastai 
 - **Concepts**: Supervised/unsupervised learning, optimization techniques, neural networks, natural language processing (NLP), reinforcement learning  
 
 ### 🌱 Goals:
