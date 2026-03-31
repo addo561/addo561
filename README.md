@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Korli Larry Addo</h1>
-<h3 align="center">Math | Computer vision</h3>
+<h3 align="center">Anything Diffusion</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addo561&label=Profile%20views&color=0e75b6&style=flat" alt="addo561" /> </p>
 
-- 🔭 I’m currently working on **CV projects**
-
-- 💬 Ask me about **Math concepts,Images**
-
+- 🔭 I’m currently working on **Gen AI**
 - 📫 How to reach me **korlilarryaddo43@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
