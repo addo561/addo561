@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addo561&label=Profile%20views&color=0e75b6&style=flat" alt="addo561" /> </p>
 
-- 🔭 I’m currently working on **Gen AI**
+- 🔭 I’m currently working on **Some projects**
 - 📫 How to reach me **korlilarryaddo43@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
