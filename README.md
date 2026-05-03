@@ -1,6 +1,5 @@
 <h1 align="center">Korli Larry Addo</h1>
 <h3 align="center">Undergraduate · Spatial Intelligence · Building toward Large World Models</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=addo561&label=profile+views&color=0e75b6&style=flat" alt="profile views" />
 </p>
@@ -8,7 +7,6 @@
 ---
 
 ### Where I'm at
-
 Undergraduate building from the ground up toward world model research — the kind of work that lets models understand, generate, and reason about persistent 3D environments. Starting with diffusion internals and moving toward spatial intelligence.
 
 - 🖼️ &nbsp;Currently: **image diffusion** — LDMs, SDEs, DiT architectures, built from scratch
@@ -24,6 +22,7 @@ Undergraduate building from the ground up toward world model research — the ki
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -37,13 +36,11 @@ Undergraduate building from the ground up toward world model research — the ki
 ---
 
 ### Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=addo561&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
 </p>
 
 ### Top Languages
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addo561&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
@@ -51,7 +48,6 @@ Undergraduate building from the ground up toward world model research — the ki
 ---
 
 ### Connect
-
 <p align="center">
   <a href="https://x.com/korlai_21" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
