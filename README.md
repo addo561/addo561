@@ -1,5 +1,5 @@
 <h1 align="center">Korli Larry Addo</h1>
-<h3 align="center">Undergraduate · Building toward Diffusion Research · Image → Video → 3D → 4D</h3>
+<h3 align="center">Undergraduate · Spatial Intelligence · Building toward Large World Models</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=addo561&label=profile+views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,11 +9,12 @@
 
 ### Where I'm at
 
-Undergraduate teaching myself the internals of diffusion models — not running APIs, building from scratch. I've implemented DDPM and DDIM from scratch and I'm working toward controllable video generation, 3D synthesis, and eventually 4D dynamic generation, with grad school research as the goal.
+Undergraduate building from the ground up toward world model research — the kind of work that lets models understand, generate, and reason about persistent 3D environments. Starting with diffusion internals and moving toward spatial intelligence.
 
-- 🖼️ &nbsp;Currently: **image diffusion** — LDMs, SDEs, DiT architectures
-- 🎬 &nbsp;Next: **video generation** — temporal consistency, spacetime patching
-- 🧊 &nbsp;Later: **3D & 4D** — Gaussian Splatting, Score Distillation Sampling, dynamic scenes
+- 🖼️ &nbsp;Currently: **image diffusion** — LDMs, SDEs, DiT architectures, built from scratch
+- 🎬 &nbsp;Next: **video generation** — temporal consistency, spacetime patching, scene persistence
+- 🧊 &nbsp;Then: **3D spatial generation** — Gaussian Splatting, novel view synthesis, Score Distillation Sampling
+- 🌍 &nbsp;Goal: **Large World Models** — generative models that build and navigate coherent 3D worlds
 
 ---
 
