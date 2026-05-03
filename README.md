@@ -35,11 +35,16 @@ Undergraduate teaching myself the internals of diffusion models — not running 
 
 ---
 
-### Stats
+### Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=addo561&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=addo561&theme=tokyonight&hide_border=true" alt="GitHub streak" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=addo561&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+</p>
+
+### Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addo561&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
