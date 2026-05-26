@@ -1,18 +1,24 @@
 <h1 align="center">Korli Larry Addo</h1>
-<h3 align="center">Undergraduate · Spatial Intelligence · Building toward Large World Models</h3>
+<h3 align="center">Generative AI · Diffusion Systems · Building toward Large World Models</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=addo561&label=profile+views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### Where I'm at
-Undergraduate building from the ground up toward world model research — the kind of work that lets models understand, generate, and reason about persistent 3D environments. Starting with diffusion internals and moving toward spatial intelligence.
+### What I'm building
 
-- 🖼️ &nbsp;Currently: **image diffusion** — LDMs, SDEs, DiT architectures, built from scratch
-- 🎬 &nbsp;Next: **video generation** — temporal consistency, spacetime patching, scene persistence
-- 🧊 &nbsp;Then: **3D spatial generation** — Gaussian Splatting, novel view synthesis, Score Distillation Sampling
-- 🌍 &nbsp;Goal: **Large World Models** — generative models that build and navigate coherent 3D worlds
+I'm working toward a single long-term research goal: generative models that construct and reason about persistent, interactive 3D worlds. I'm building the foundation systematically — one layer at a time, from diffusion internals to spatial intelligence.
+
+**The arc:**
+
+- 🔬 &nbsp;**Now — Diffusion Architecture:** Replacing U-Nets with scratch-built Diffusion Transformers (DiT). Mapping GFLOPs scaling behavior across resolutions. Understanding the math before touching the API.
+- 🎬 &nbsp;**Next — Video Generation:** Cross-frame attention for temporal consistency. Fighting flickering directly. Evaluating with FVD, not vibes.
+- 🧊 &nbsp;**Then — 3D Spatial Generation:** Score Distillation Sampling over NeRF / 3D Gaussian Splatting. Documenting gradient flow strictly.
+- 🌍 &nbsp;**Goal — Large World Models:** Action-conditioned generative systems that build coherent, navigable 3D environments.
+
+Every project ships with a technical report. Results are reported honestly, including failures.
 
 ---
 
@@ -23,24 +29,21 @@ Undergraduate building from the ground up toward world model research — the ki
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Deployment & Tooling**
+**Tooling**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### Trophies
+### GitHub Stats
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=addo561&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
 </p>
 
-### Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addo561&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
@@ -48,6 +51,7 @@ Undergraduate building from the ground up toward world model research — the ki
 ---
 
 ### Connect
+
 <p align="center">
   <a href="https://x.com/korlai_21" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
