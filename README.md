@@ -1,5 +1,5 @@
 <h1 align="center">Korli Larry Addo</h1>
-<h3 align="center">Generative AI · Diffusion Systems · Building toward Large World Models</h3>
+<h3 align="center">Generative AI · Diffusion Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=addo561&label=profile+views&color=0e75b6&style=flat" alt="profile views" />
