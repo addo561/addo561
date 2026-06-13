@@ -1,4 +1,4 @@
-Generative models for spatial/temporal understanding — video generation, 3D scene generation, world models for embodied AI.
+Generative models for spatial/temporal understanding — video generation, 3D scene generation, world models for embodied AI.(learning systematically)
 
 ---
 
