@@ -1,6 +1,4 @@
-Deep Generative Models · Large World Models
-
-Building the math systematically — diffusion internals → 3D spatial generation → action-conditioned world models.
+Generative models for spatial/temporal understanding — video generation, 3D scene generation, world models for embodied AI.
 
 ---
 
