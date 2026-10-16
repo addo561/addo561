@@ -1,4 +1,8 @@
-Here to learn😁!
+CS Graduate from KNUST, Ghana · Transitioning from AI/PyTorch into systems —  performance.
+
+Currently building backend in Go; working toward low-level optimization and compiler-adjacent work.
+
+Long game: performance engineering at the hardware/software boundary.
 
 ---
 
